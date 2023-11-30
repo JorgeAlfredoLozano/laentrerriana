@@ -1,0 +1,34 @@
+.container {
+    background-color: rgb(139, 134, 134);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2%;
+    margin-bottom: 5px;
+}
+.titulo {
+    font-size: 46px;
+    font-family: 'Viga', sans-serif;
+    margin-bottom: 1px; /* Ajusta el valor según sea necesario */
+}
+
+.nombre {
+    font-size: 88px;
+    margin-top: -2%;
+    font-family: 'Allura', sans-serif;
+    margin-bottom: 5px; /* Ajusta el valor según sea necesario */
+}
+
+.texto1 {
+    font-size: 20px;
+    font-family: 'Adamina', sans-serif;
+    margin-bottom: 5px; /* Ajusta el valor según sea necesario */
+    /* width: 70%; */
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    line-height: 195%;
+    
+}

@@ -1,0 +1,22 @@
+.carousel {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    height: auto;
+  }
+  
+  .slide {
+    width: 100%;
+    display: none;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .slide.active {
+    display: block;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
